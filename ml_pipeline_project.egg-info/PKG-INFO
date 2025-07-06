@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ml_pipeline_project
+Version: 0.0.1
+Summary: Machine Learning Pipeline Project
+Author: Anshul Mahajan
+Author-email: harshalsharma101@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
