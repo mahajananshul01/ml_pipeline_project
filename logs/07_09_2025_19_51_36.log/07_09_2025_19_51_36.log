@@ -1,0 +1,12 @@
+[ 2025-07-09 19:51:36,083 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-07-09 19:51:36,083 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-07-09 19:51:36,092 ] 97 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2025-07-09 19:51:36,361 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-07-09 19:51:36,365 ] 97 werkzeug - INFO -  * Debugger PIN: 110-605-192
+[ 2025-07-09 19:51:40,245 ] 14 root - INFO - Error occured in the python script name [D:\Learn\Projects\End-To-End\EWB\ML_Project_1\ml_pipeline_project\app.py] line number [11] error message [We are testing our custom Exception]
+[ 2025-07-09 19:51:40,257 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2025 19:51:40] "GET / HTTP/1.1" 200 -
+[ 2025-07-09 19:52:06,786 ] 97 werkzeug - INFO -  * Detected change in 'D:\\Learn\\Projects\\End-To-End\\EWB\\ML_Project_1\\ml_pipeline_project\\src\\exception.py', reloading
+[ 2025-07-09 19:52:06,786 ] 97 werkzeug - INFO -  * Detected change in 'D:\\Learn\\Projects\\End-To-End\\EWB\\ML_Project_1\\ml_pipeline_project\\src\\exception.py', reloading
+[ 2025-07-09 19:52:06,786 ] 97 werkzeug - INFO -  * Detected change in 'D:\\Learn\\Projects\\End-To-End\\EWB\\ML_Project_1\\ml_pipeline_project\\src\\exception.py', reloading
+[ 2025-07-09 19:52:07,723 ] 97 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
